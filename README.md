@@ -27,6 +27,3 @@ About My Projects
 
 *For SQL File 2 I have Taken a Bank Loan Dataset Here i have Made Queries to Find out KPI's And Report Of Total LoanAmt Given And Received  Through Various Segments
 
-*For Tableau Dashboard 1 I have taken a Hr Dataset here i have Created An InterActive Dashboard And Mentioned the KPI's And Report of Attrition
-
-*For Tableau Dashboard 2 I have Taken a Addidas Sales Dataset Here i have Created An Interactive Dashboard And Mentioned the KPI's And Report of Sales And Profit Through Various Segments 
